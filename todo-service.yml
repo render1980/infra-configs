@@ -1,0 +1,13 @@
+profiles:
+  active: master
+
+logging:
+  level:
+    org.springframework.web: ERROR
+    com.example.config_server.notification: TRACE
+
+server:
+  port: 8081
+
+mongo:
+  password: test123
