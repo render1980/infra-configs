@@ -10,4 +10,4 @@ server:
   port: 8081
 
 mongo:
-  password: '{cipher}bfebb8e6229b86ba6fcc3519e5449bc3cf35fcc46688fcae869385327eb5bba3'
+  password: '{cipher}bfebb8e6229b86ba6fcc3519e5449bc3cf35fcc46688fcae869385327eb5bba'
